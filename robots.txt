@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://blog.live680g.co/sitemap.xml
