@@ -3,56 +3,18 @@
   
   <url>
     <loc>https://blog.live680g.co/</loc>
-    <lastmod>2021-04-11T16:33:50+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.live680g.co/post/</loc>
-    <lastmod>2021-04-11T16:33:50+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.live680g.co/post/1/</loc>
-    <lastmod>2021-04-11T16:33:50+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://blog.live680g.co/categories/</loc>
-    <lastmod>2021-04-10T18:17:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://blog.live680g.co/tags/</loc>
-    <lastmod>2021-04-10T18:17:17+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.live680g.co/tags/test/</loc>
-    <lastmod>2021-04-10T18:17:17+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.live680g.co/categories/test/</loc>
-    <lastmod>2021-04-10T18:17:17+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.live680g.co/post/test/</loc>
-    <lastmod>2021-04-10T18:17:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
